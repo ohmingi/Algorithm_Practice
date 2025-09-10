@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="284db6f1-a017-4386-bcc3-982a5533ad7b" name="Changes" comment="beakjoon_1987_c++" />
+    <list default="true" id="284db6f1-a017-4386-bcc3-982a5533ad7b" name="Changes" comment="beakjoon_1326_c++">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -57,6 +60,12 @@
   }
 }</component>
   <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="Algorithm" />
       <option name="filePath" />
@@ -82,7 +91,7 @@
       <workItem from="1757328507750" duration="1352000" />
       <workItem from="1757331383894" duration="159000" />
       <workItem from="1757332186039" duration="314000" />
-      <workItem from="1757419003302" duration="44000" />
+      <workItem from="1757419003302" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="beakjoon_10799_c++">
       <option name="closed" value="true" />
@@ -108,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757329600192</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="beakjoon_1326_c++">
+      <option name="closed" value="true" />
+      <created>1757419089937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757419089937</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="beakjoon_10799_c++" />
     <MESSAGE value="beakjoon_1987_c++" />
-    <option name="LAST_COMMIT_MESSAGE" value="beakjoon_1987_c++" />
+    <MESSAGE value="beakjoon_1326_c++" />
+    <option name="LAST_COMMIT_MESSAGE" value="beakjoon_1326_c++" />
   </component>
 </project>
