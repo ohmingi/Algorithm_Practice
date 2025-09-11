@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="284db6f1-a017-4386-bcc3-982a5533ad7b" name="Changes" comment="beakjoon_1326_c++">
+    <list default="true" id="284db6f1-a017-4386-bcc3-982a5533ad7b" name="Changes" comment="beakjoon_5052_c++">
+      <change afterPath="$PROJECT_DIR$/beakjoon/c++/2439.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +47,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
@@ -59,7 +61,23 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alsrl\Desktop\Algorithm\beakjoon\c++" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Algorithm" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Algorithm" />
       <method v="2">
@@ -92,6 +110,9 @@
       <workItem from="1757331383894" duration="159000" />
       <workItem from="1757332186039" duration="314000" />
       <workItem from="1757419003302" duration="479000" />
+      <workItem from="1757496176121" duration="65000" />
+      <workItem from="1757497688888" duration="867000" />
+      <workItem from="1757592194104" duration="70000" />
     </task>
     <task id="LOCAL-00001" summary="beakjoon_10799_c++">
       <option name="closed" value="true" />
@@ -125,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757419089937</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="beakjoon_5052_c++">
+      <option name="closed" value="true" />
+      <created>1757496225176</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757496225176</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +175,7 @@
     <MESSAGE value="beakjoon_10799_c++" />
     <MESSAGE value="beakjoon_1987_c++" />
     <MESSAGE value="beakjoon_1326_c++" />
-    <option name="LAST_COMMIT_MESSAGE" value="beakjoon_1326_c++" />
+    <MESSAGE value="beakjoon_5052_c++" />
+    <option name="LAST_COMMIT_MESSAGE" value="beakjoon_5052_c++" />
   </component>
 </project>
