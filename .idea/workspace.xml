@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="284db6f1-a017-4386-bcc3-982a5533ad7b" name="Changes" comment="beakjoon_2439_c++" />
+    <list default="true" id="284db6f1-a017-4386-bcc3-982a5533ad7b" name="Changes" comment="beakjoon_2609_c++">
+      <change afterPath="$PROJECT_DIR$/beakjoon/c++/2581.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +113,9 @@
       <workItem from="1757496176121" duration="65000" />
       <workItem from="1757497688888" duration="867000" />
       <workItem from="1757592194104" duration="99000" />
+      <workItem from="1757687069724" duration="110000" />
+      <workItem from="1757930667073" duration="30000" />
+      <workItem from="1757933028316" duration="1026000" />
     </task>
     <task id="LOCAL-00001" summary="beakjoon_10799_c++">
       <option name="closed" value="true" />
@@ -159,7 +165,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757592281557</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="beakjoon_2609_c++">
+      <option name="closed" value="true" />
+      <created>1757687147544</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757687147544</updated>
+    </task>
+    <task id="LOCAL-00008" summary="beakjoon_2609_c++">
+      <option name="closed" value="true" />
+      <created>1757687164515</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757687164515</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +204,7 @@
     <MESSAGE value="beakjoon_1326_c++" />
     <MESSAGE value="beakjoon_5052_c++" />
     <MESSAGE value="beakjoon_2439_c++" />
-    <option name="LAST_COMMIT_MESSAGE" value="beakjoon_2439_c++" />
+    <MESSAGE value="beakjoon_2609_c++" />
+    <option name="LAST_COMMIT_MESSAGE" value="beakjoon_2609_c++" />
   </component>
 </project>
