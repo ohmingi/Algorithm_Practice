@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="284db6f1-a017-4386-bcc3-982a5533ad7b" name="Changes" comment="beakjoon_2004_c++">
-      <change afterPath="$PROJECT_DIR$/beakjoon/c++&amp;python/1/10971.md" afterDir="false" />
+    <list default="true" id="284db6f1-a017-4386-bcc3-982a5533ad7b" name="Changes" comment="beakjoon_10971_c++">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +121,9 @@
       <workItem from="1758024396884" duration="261000" />
       <workItem from="1758100621520" duration="99000" />
       <workItem from="1758204473673" duration="73000" />
-      <workItem from="1758708352041" duration="596000" />
+      <workItem from="1758708352041" duration="812000" />
+      <workItem from="1758722474413" duration="11000" />
+      <workItem from="1758781345048" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="beakjoon_10799_c++">
       <option name="closed" value="true" />
@@ -228,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758204528123</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="beakjoon_10971_c++">
+      <option name="closed" value="true" />
+      <created>1758709148931</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1758709148931</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +265,7 @@
     <MESSAGE value="beakjoon_11047_c++" />
     <MESSAGE value="beakjoon_9020_c++" />
     <MESSAGE value="beakjoon_4948_c++" />
-    <option name="LAST_COMMIT_MESSAGE" value="beakjoon_4948_c++" />
+    <MESSAGE value="beakjoon_10971_c++" />
+    <option name="LAST_COMMIT_MESSAGE" value="beakjoon_10971_c++" />
   </component>
 </project>
