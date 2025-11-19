@@ -15,9 +15,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="284db6f1-a017-4386-bcc3-982a5533ad7b" name="Changes" comment="beakjoon_10971_c++">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="284db6f1-a017-4386-bcc3-982a5533ad7b" name="Changes" comment="beakjoon_10971_c++" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +76,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -149,7 +147,7 @@
       <workItem from="1763464367538" duration="103000" />
       <workItem from="1763540272389" duration="12000" />
       <workItem from="1763555880036" duration="46000" />
-      <workItem from="1763556004021" duration="679000" />
+      <workItem from="1763556004021" duration="1024000" />
     </task>
     <task id="LOCAL-00001" summary="beakjoon_10799_c++">
       <option name="closed" value="true" />
