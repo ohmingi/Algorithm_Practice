@@ -18,9 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="284db6f1-a017-4386-bcc3-982a5533ad7b" name="Changes" comment="beakjoon_10971_c++">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="284db6f1-a017-4386-bcc3-982a5533ad7b" name="Changes" comment="beakjoon_10971_c++" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,6 +172,7 @@
       <workItem from="1770718240039" duration="54000" />
       <workItem from="1770806822999" duration="61000" />
       <workItem from="1770810073123" duration="6000" />
+      <workItem from="1770972086133" duration="874000" />
     </task>
     <task id="LOCAL-00001" summary="beakjoon_10799_c++">
       <option name="closed" value="true" />
